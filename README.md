@@ -7,3 +7,6 @@
 ### 🧰 Tools
 
 ![](https://skillicons.dev/icons?i=vscode,pycharm,vercel,supabase,firebase,figma,notion,obsidian&theme=dark)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
