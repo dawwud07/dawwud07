@@ -9,6 +9,10 @@
 ![](https://skillicons.dev/icons?i=vscode,pycharm,vercel,supabase,firebase,figma,notion,obsidian&theme=dark)
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2026%20mins-blue?style=flat)
+
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2048%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-129-blue?style=flat)
 
 **🐱 My GitHub Data** 
@@ -50,24 +54,45 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   14 mins             █████████████████████████   99.47 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+JavaScript               19 mins             █████████░░░░░░░░░░░░░░░░   35.97 % 
+TypeScript               18 mins             ████████░░░░░░░░░░░░░░░░░   33.13 % 
+Python                   14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
+Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
 
 🔥 Editors: 
-VS Code                  13 mins             ████████████████████████░   95.01 % 
-Opencode Cli             0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+Opencode Cli             40 mins             ██████████████████░░░░░░░   73.81 % 
+VS Code                  14 mins             ███████░░░░░░░░░░░░░░░░░░   26.19 % 
 
 🐱‍💻 Projects: 
-api                      14 mins             █████████████████████████   100.00 % 
+screenshot-to-scene-6121-37 mins             █████████████████░░░░░░░░   68.43 % 
+api                      14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
 
 💻 Operating System: 
-Windows                  14 mins             █████████████████████████   100.00 % 
+Windows                  55 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 40 mins (74.37%)
+
+✍️ 269 lines written by AI, 9 lines written by hand (96.76% AI-written)
+
+🔤 215,453 Input Tokens, 77,659 Output Tokens
+
+💵 $27.13 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 5 AI Prompts
+
+DeepSeek                 295 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 96.76% of written lines came from AI
+📝 Concise Prompter — average 74 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 3.24% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -85,5 +110,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dawwud07/dawwud07/main/assets/bar_graph.png)
 
 
- Last Updated on 21/11/2026 09:38:39 UTC
+ Last Updated on 22/11/2026 05:38:21 UTC
 <!--END_SECTION:waka-->
