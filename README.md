@@ -9,11 +9,11 @@
 ![](https://skillicons.dev/icons?i=vscode,pycharm,vercel,supabase,firebase,figma,notion,obsidian&theme=dark)
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-16%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-17%20hrs%207%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-16%20hrs%2048%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-17%20hrs%2029%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-129-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-51-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -110,5 +110,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dawwud07/dawwud07/main/assets/bar_graph.png)
 
 
- Last Updated on 22/11/2026 05:38:21 UTC
+ Last Updated on 23/11/2026 06:19:43 UTC
 <!--END_SECTION:waka-->
