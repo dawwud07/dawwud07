@@ -54,31 +54,28 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               19 mins             █████████░░░░░░░░░░░░░░░░   35.97 % 
-TypeScript               18 mins             ████████░░░░░░░░░░░░░░░░░   33.13 % 
-Python                   14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.50 % 
-CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.27 % 
-Git Config               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+JavaScript               19 mins             ████████████░░░░░░░░░░░░░   48.36 % 
+TypeScript               18 mins             ███████████░░░░░░░░░░░░░░   44.55 % 
+CSS                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
 
 🔥 Editors: 
-Opencode Cli             40 mins             ██████████████████░░░░░░░   73.81 % 
-VS Code                  14 mins             ███████░░░░░░░░░░░░░░░░░░   26.19 % 
+Opencode Cli             40 mins             █████████████████████████   99.24 % 
+VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🐱‍💻 Projects: 
-screenshot-to-scene-6121-37 mins             █████████████████░░░░░░░░   68.43 % 
-api                      14 mins             ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.94 % 
+screenshot-to-scene-6121-37 mins             ███████████████████████░░   92.01 % 
+Unknown Project          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
 
 💻 Operating System: 
-Windows                  55 mins             █████████████████████████   100.00 % 
+Windows                  40 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 mins (74.37%)
+⏱ AI Coding Time: 40 mins (100.0%)
 
-✍️ 269 lines written by AI, 9 lines written by hand (96.76% AI-written)
+✍️ 269 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
 🔤 215,453 Input Tokens, 77,659 Output Tokens
 
@@ -89,10 +86,10 @@ Windows                  55 mins             ███████████�
 DeepSeek                 295 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 96.76% of written lines came from AI
+🤖 AI-Driven — 100.0% of written lines came from AI
 📝 Concise Prompter — average 74 characters per prompt
 🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 3.24% of changed lines were hand-edited
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -110,5 +107,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dawwud07/dawwud07/main/assets/bar_graph.png)
 
 
- Last Updated on 24/11/2026 08:54:07 UTC
+ Last Updated on 25/11/2026 07:30:12 UTC
 <!--END_SECTION:waka-->
