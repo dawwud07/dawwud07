@@ -19,32 +19,32 @@
 
 > 📦 ? Used in GitHub's Storage 
  > 
-> 🏆 58 Contributions in the Year 2026
+> 🏆 61 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 14 Public Repositories 
+> 📜 15 Public Repositories 
  > 
 > 🔑 0 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                14 commits          ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-🌆 Daytime                27 commits          █████████████░░░░░░░░░░░░   51.92 % 
-🌃 Evening                11 commits          █████░░░░░░░░░░░░░░░░░░░░   21.15 % 
+🌞 Morning                14 commits          ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+🌆 Daytime                28 commits          █████████████░░░░░░░░░░░░   52.83 % 
+🌃 Evening                11 commits          █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
 🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Tuesday                  6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.54 % 
-Wednesday                3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.77 % 
-Thursday                 14 commits          ███████░░░░░░░░░░░░░░░░░░   26.92 % 
-Friday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Saturday                 20 commits          ██████████░░░░░░░░░░░░░░░   38.46 % 
-Sunday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+Monday                   3 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Tuesday                  6 commits           ███░░░░░░░░░░░░░░░░░░░░░░   11.32 % 
+Wednesday                4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Thursday                 14 commits          ███████░░░░░░░░░░░░░░░░░░   26.42 % 
+Friday                   4 commits           ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+Saturday                 20 commits          █████████░░░░░░░░░░░░░░░░   37.74 % 
+Sunday                   2 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
 ```
 
 
@@ -54,50 +54,58 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-JavaScript               19 mins             ████████████░░░░░░░░░░░░░   48.36 % 
-TypeScript               18 mins             ███████████░░░░░░░░░░░░░░   44.55 % 
-CSS                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.08 % 
+Python                   39 mins             ████████████░░░░░░░░░░░░░   48.77 % 
+JavaScript               19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
+TypeScript               18 mins             ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
+CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
+Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
 
 🔥 Editors: 
-Opencode Cli             40 mins             █████████████████████████   99.24 % 
-VS Code                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
+Opencode Cli             43 mins             ██████████████░░░░░░░░░░░   54.38 % 
+VS Code                  24 mins             ████████░░░░░░░░░░░░░░░░░   30.45 % 
+Copilot CLI              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+OpenCode                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
 
 🐱‍💻 Projects: 
-screenshot-to-scene-6121-37 mins             ███████████████████████░░   92.01 % 
-Unknown Project          3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.99 % 
+screenshot-to-scene-6121-37 mins             ████████████░░░░░░░░░░░░░   47.07 % 
+newforremind             20 mins             ███████░░░░░░░░░░░░░░░░░░   26.16 % 
+api                      17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
 
 💻 Operating System: 
-Windows                  40 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 40 mins (100.0%)
+⏱ AI Coding Time: 1 hr 9 mins (86.89%)
 
-✍️ 269 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 3,144 lines written by AI, 17 lines written by hand (99.46% AI-written)
 
-🔤 215,453 Input Tokens, 77,659 Output Tokens
+🔤 379,211 Input Tokens, 142,068 Output Tokens
 
-💵 $27.13 Estimated AI Cost This Week
+💵 $39.01 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 5 AI Prompts
+🧠 3 AI Sessions, 8 AI Prompts
 
-DeepSeek                 295 lines           █████████████████████████   100.00 % 
+DeepSeek                 3,172 lines         █████████████████████████   100.00 % 
+Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
-📝 Concise Prompter — average 74 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🤖 AI-Driven — 99.46% of written lines came from AI
+📝 Concise Prompter — average 68 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.57% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   9 repos             ██████████████░░░░░░░░░░░   56.25 % 
-TypeScript               6 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
+Python                   9 repos             █████████████░░░░░░░░░░░░   52.94 % 
+TypeScript               6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+C++                      1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+HTML                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
@@ -107,5 +115,5 @@ HTML                     1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dawwud07/dawwud07/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2026 07:30:12 UTC
+ Last Updated on 26/11/2026 07:19:20 UTC
 <!--END_SECTION:waka-->
