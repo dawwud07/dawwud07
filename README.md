@@ -54,49 +54,49 @@ Sunday                   2 commits           █░░░░░░░░░░�
 🕑︎ Time Zone: Europe/Moscow
 
 💬 Programming Languages: 
-Python                   39 mins             ████████████░░░░░░░░░░░░░   48.77 % 
-JavaScript               19 mins             ██████░░░░░░░░░░░░░░░░░░░   24.74 % 
-TypeScript               18 mins             ██████░░░░░░░░░░░░░░░░░░░   22.79 % 
-CSS                      2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 % 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+Python                   52 mins             ██████████░░░░░░░░░░░░░░░   40.62 % 
+JavaScript               19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+YAML                     19 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.10 % 
+TypeScript               18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.11 % 
+Bash                     15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.24 % 
 
 🔥 Editors: 
-Opencode Cli             43 mins             ██████████████░░░░░░░░░░░   54.38 % 
-VS Code                  24 mins             ████████░░░░░░░░░░░░░░░░░   30.45 % 
-Copilot CLI              6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-OpenCode                 5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.49 % 
+Opencode Cli             43 mins             ████████░░░░░░░░░░░░░░░░░   33.66 % 
+VS Code                  40 mins             ████████░░░░░░░░░░░░░░░░░   31.38 % 
+Copilot CLI              36 mins             ███████░░░░░░░░░░░░░░░░░░   28.32 % 
+OpenCode                 8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
 
 🐱‍💻 Projects: 
-screenshot-to-scene-6121-37 mins             ████████████░░░░░░░░░░░░░   47.07 % 
-newforremind             20 mins             ███████░░░░░░░░░░░░░░░░░░   26.16 % 
-api                      17 mins             █████░░░░░░░░░░░░░░░░░░░░   21.90 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.86 % 
+api                      1 hr 2 mins         ████████████░░░░░░░░░░░░░   48.54 % 
+screenshot-to-scene-6121-37 mins             ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+newforremind             24 mins             █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.01 % 
 
 💻 Operating System: 
-Windows                  1 hr 20 mins        █████████████████████████   100.00 % 
+Windows                  2 hrs 9 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 9 mins (86.89%)
+⏱ AI Coding Time: 1 hr 45 mins (81.41%)
 
-✍️ 3,144 lines written by AI, 17 lines written by hand (99.46% AI-written)
+✍️ 3,144 lines written by AI, 104 lines written by hand (96.8% AI-written)
 
-🔤 379,211 Input Tokens, 142,068 Output Tokens
+🔤 462,201 Input Tokens, 142,068 Output Tokens
 
-💵 $39.01 Estimated AI Cost This Week
+💵 $40.00 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 8 AI Prompts
+🧠 5 AI Sessions, 12 AI Prompts
 
 DeepSeek                 3,172 lines         █████████████████████████   100.00 % 
 Code                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.46% of written lines came from AI
-📝 Concise Prompter — average 68 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
-🚀 High AI Trust — 0.57% of changed lines were hand-edited
+🤖 AI-Driven — 96.8% of written lines came from AI
+📝 Concise Prompter — average 90 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 4.23% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -115,5 +115,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/dawwud07/dawwud07/main/assets/bar_graph.png)
 
 
- Last Updated on 27/11/2026 07:15:24 UTC
+ Last Updated on 28/11/2026 06:47:56 UTC
 <!--END_SECTION:waka-->
